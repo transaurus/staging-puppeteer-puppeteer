@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Puppeteer",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Puppeteer Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Puppeteer API": {
+    "message": "Puppeteer API",
+    "description": "Navbar item with label Puppeteer API"
+  },
+  "item.label.@puppeteer/browsers API": {
+    "message": "@puppeteer/browsers API",
+    "description": "Navbar item with label @puppeteer/browsers API"
+  }
+}
