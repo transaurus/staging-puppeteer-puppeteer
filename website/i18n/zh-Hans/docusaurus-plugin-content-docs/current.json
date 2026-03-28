@@ -1,0 +1,242 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category 'Introduction' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Introduction.link.generated-index.title": {
+    "message": "Introduction",
+    "description": "The generated-index page title for category 'Introduction' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Core concepts": {
+    "message": "Core concepts",
+    "description": "The label for category 'Core concepts' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Core concepts.link.generated-index.title": {
+    "message": "Core concepts",
+    "description": "The generated-index page title for category 'Core concepts' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category 'Guides' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Guides.link.generated-index.title": {
+    "message": "Guides",
+    "description": "The generated-index page title for category 'Guides' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Integrations": {
+    "message": "Integrations",
+    "description": "The label for category 'Integrations' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Integrations.link.generated-index.title": {
+    "message": "Puppeteer Integrations",
+    "description": "The generated-index page title for category 'Integrations' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Community": {
+    "message": "Community",
+    "description": "The label for category 'Community' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Community.link.generated-index.title": {
+    "message": "Community",
+    "description": "The generated-index page title for category 'Community' in sidebar 'docs'"
+  },
+  "sidebar.docs.doc.Angular": {
+    "message": "Angular",
+    "description": "The label for the doc item 'Angular' in sidebar 'docs', linking to the doc guides/ng-schematics"
+  },
+  "sidebar.docs.doc.Docker": {
+    "message": "Docker",
+    "description": "The label for the doc item 'Docker' in sidebar 'docs', linking to the doc guides/docker"
+  },
+  "sidebar.api.category.PuppeteerNode": {
+    "message": "PuppeteerNode",
+    "description": "The label for category 'PuppeteerNode' in sidebar 'api'"
+  },
+  "sidebar.api.category.Puppeteer": {
+    "message": "Puppeteer",
+    "description": "The label for category 'Puppeteer' in sidebar 'api'"
+  },
+  "sidebar.api.category.Browser": {
+    "message": "Browser",
+    "description": "The label for category 'Browser' in sidebar 'api'"
+  },
+  "sidebar.api.category.BrowserContext": {
+    "message": "BrowserContext",
+    "description": "The label for category 'BrowserContext' in sidebar 'api'"
+  },
+  "sidebar.api.category.Page": {
+    "message": "Page",
+    "description": "The label for category 'Page' in sidebar 'api'"
+  },
+  "sidebar.api.category.Locator": {
+    "message": "Locator",
+    "description": "The label for category 'Locator' in sidebar 'api'"
+  },
+  "sidebar.api.category.WebWorker": {
+    "message": "WebWorker",
+    "description": "The label for category 'WebWorker' in sidebar 'api'"
+  },
+  "sidebar.api.category.Accessibility": {
+    "message": "Accessibility",
+    "description": "The label for category 'Accessibility' in sidebar 'api'"
+  },
+  "sidebar.api.category.Keyboard": {
+    "message": "Keyboard",
+    "description": "The label for category 'Keyboard' in sidebar 'api'"
+  },
+  "sidebar.api.category.Mouse": {
+    "message": "Mouse",
+    "description": "The label for category 'Mouse' in sidebar 'api'"
+  },
+  "sidebar.api.category.Touchscreen": {
+    "message": "Touchscreen",
+    "description": "The label for category 'Touchscreen' in sidebar 'api'"
+  },
+  "sidebar.api.category.Tracing": {
+    "message": "Tracing",
+    "description": "The label for category 'Tracing' in sidebar 'api'"
+  },
+  "sidebar.api.category.FileChooser": {
+    "message": "FileChooser",
+    "description": "The label for category 'FileChooser' in sidebar 'api'"
+  },
+  "sidebar.api.category.Dialog": {
+    "message": "Dialog",
+    "description": "The label for category 'Dialog' in sidebar 'api'"
+  },
+  "sidebar.api.category.ConsoleMessage": {
+    "message": "ConsoleMessage",
+    "description": "The label for category 'ConsoleMessage' in sidebar 'api'"
+  },
+  "sidebar.api.category.Frame": {
+    "message": "Frame",
+    "description": "The label for category 'Frame' in sidebar 'api'"
+  },
+  "sidebar.api.category.JSHandle": {
+    "message": "JSHandle",
+    "description": "The label for category 'JSHandle' in sidebar 'api'"
+  },
+  "sidebar.api.category.ElementHandle": {
+    "message": "ElementHandle",
+    "description": "The label for category 'ElementHandle' in sidebar 'api'"
+  },
+  "sidebar.api.category.HTTPRequest": {
+    "message": "HTTPRequest",
+    "description": "The label for category 'HTTPRequest' in sidebar 'api'"
+  },
+  "sidebar.api.category.HTTPResponse": {
+    "message": "HTTPResponse",
+    "description": "The label for category 'HTTPResponse' in sidebar 'api'"
+  },
+  "sidebar.api.category.SecurityDetails": {
+    "message": "SecurityDetails",
+    "description": "The label for category 'SecurityDetails' in sidebar 'api'"
+  },
+  "sidebar.api.category.Target": {
+    "message": "Target",
+    "description": "The label for category 'Target' in sidebar 'api'"
+  },
+  "sidebar.api.category.CDPSession": {
+    "message": "CDPSession",
+    "description": "The label for category 'CDPSession' in sidebar 'api'"
+  },
+  "sidebar.api.category.Coverage": {
+    "message": "Coverage",
+    "description": "The label for category 'Coverage' in sidebar 'api'"
+  },
+  "sidebar.api.category.EventEmitter": {
+    "message": "EventEmitter",
+    "description": "The label for category 'EventEmitter' in sidebar 'api'"
+  },
+  "sidebar.api.category.Other": {
+    "message": "Other",
+    "description": "The label for category 'Other' in sidebar 'api'"
+  },
+  "sidebar.api.category.BluetoothEmulation": {
+    "message": "BluetoothEmulation",
+    "description": "The label for category 'BluetoothEmulation' in sidebar 'api'"
+  },
+  "sidebar.api.category.BrowserLauncher": {
+    "message": "BrowserLauncher",
+    "description": "The label for category 'BrowserLauncher' in sidebar 'api'"
+  },
+  "sidebar.api.category.CDPSessionEvent": {
+    "message": "CDPSessionEvent",
+    "description": "The label for category 'CDPSessionEvent' in sidebar 'api'"
+  },
+  "sidebar.api.category.CommonEventEmitter": {
+    "message": "CommonEventEmitter",
+    "description": "The label for category 'CommonEventEmitter' in sidebar 'api'"
+  },
+  "sidebar.api.category.Connection": {
+    "message": "Connection",
+    "description": "The label for category 'Connection' in sidebar 'api'"
+  },
+  "sidebar.api.category.ConnectionTransport": {
+    "message": "ConnectionTransport",
+    "description": "The label for category 'ConnectionTransport' in sidebar 'api'"
+  },
+  "sidebar.api.category.CSSCoverage": {
+    "message": "CSSCoverage",
+    "description": "The label for category 'CSSCoverage' in sidebar 'api'"
+  },
+  "sidebar.api.category.DeviceRequestPrompt": {
+    "message": "DeviceRequestPrompt",
+    "description": "The label for category 'DeviceRequestPrompt' in sidebar 'api'"
+  },
+  "sidebar.api.category.ExtensionTransport": {
+    "message": "ExtensionTransport",
+    "description": "The label for category 'ExtensionTransport' in sidebar 'api'"
+  },
+  "sidebar.api.category.JSCoverage": {
+    "message": "JSCoverage",
+    "description": "The label for category 'JSCoverage' in sidebar 'api'"
+  },
+  "sidebar.api.category.Moveable": {
+    "message": "Moveable",
+    "description": "The label for category 'Moveable' in sidebar 'api'"
+  },
+  "sidebar.api.category.ScreenRecorder": {
+    "message": "ScreenRecorder",
+    "description": "The label for category 'ScreenRecorder' in sidebar 'api'"
+  },
+  "sidebar.api.category.SerializedAXNode": {
+    "message": "SerializedAXNode",
+    "description": "The label for category 'SerializedAXNode' in sidebar 'api'"
+  },
+  "sidebar.api.category.TouchHandle": {
+    "message": "TouchHandle",
+    "description": "The label for category 'TouchHandle' in sidebar 'api'"
+  },
+  "sidebar.browsersApi.category.API": {
+    "message": "API",
+    "description": "The label for category 'API' in sidebar 'browsersApi'"
+  },
+  "sidebar.browsersApi.category.CLI": {
+    "message": "CLI",
+    "description": "The label for category 'CLI' in sidebar 'browsersApi'"
+  },
+  "sidebar.browsersApi.category.Other": {
+    "message": "Other",
+    "description": "The label for category 'Other' in sidebar 'browsersApi'"
+  },
+  "sidebar.browsersApi.category.BrowserProvider": {
+    "message": "BrowserProvider",
+    "description": "The label for category 'BrowserProvider' in sidebar 'browsersApi'"
+  },
+  "sidebar.browsersApi.category.DefaultProvider": {
+    "message": "DefaultProvider",
+    "description": "The label for category 'DefaultProvider' in sidebar 'browsersApi'"
+  },
+  "sidebar.browsersApi.category.InstalledBrowser": {
+    "message": "InstalledBrowser",
+    "description": "The label for category 'InstalledBrowser' in sidebar 'browsersApi'"
+  },
+  "sidebar.browsersApi.category.Process": {
+    "message": "Process",
+    "description": "The label for category 'Process' in sidebar 'browsersApi'"
+  }
+}

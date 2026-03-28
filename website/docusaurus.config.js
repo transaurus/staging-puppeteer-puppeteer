@@ -50,7 +50,7 @@ const config = {
   trailingSlash: false,
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
   scripts: [
     {
